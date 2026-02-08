@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
- 2nd year B.Tech-CSE.<br> DSA with JAVA <br> HTML+CSS+JS<br>Python + Machine learning and Generative AI.<br>
+ 2nd year B.Tech-CSE.<br> DSA with JAVA + SQL and SpringBoot.<br> HTML+CSS+JS<br>Python + Machine learning and Generative AI.<br>
  
 
 ## 🌐 Socials:
