@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a 2nd year student of B.Tech in CSE.<br>I am learning DSA, and web dev and core concepts of Machine learning and Generative AI.<br>
-
+ 2nd year B.Tech-CSE.<br> DSA with JAVA <br> HTML+CSS+JS<br>Python + Machine learning and Generative AI.<br>
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaurya_12_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shaurya Tripathi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shauryat116@gmail.com) 
